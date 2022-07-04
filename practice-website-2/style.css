@@ -1,0 +1,43 @@
+body {
+    background-color: #ebebee;
+}
+
+h1 {
+    color: #566a7f;
+    margin-left: 15px;
+   
+}
+.topic-container {
+    background-color: white;
+    border: 1px solid #d9dee3;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 20px;
+}
+.topic-title {
+    color: #696cff;
+}
+
+.topic-title-strong{
+    font-weight: 900;
+}
+
+.topic-title-normal {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.title-important-note {
+    background-color: #e7e7ff;
+    border-color: #d2d3ff;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.important-note-text {
+    color: #696cff;
+}
+
+p .important-text-bold {
+    font-weight: 600;
+}
